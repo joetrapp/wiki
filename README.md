@@ -16,7 +16,6 @@ If you want to embed images, this is how you do it:
 
 #### This is an h6 tag
 
-
 *This text will be italic*
 _This will also be italic_
 
