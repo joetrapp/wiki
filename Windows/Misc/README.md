@@ -1,7 +1,7 @@
 # Windows 10 mouse beep on movement
 2018/05/08
 
-**Problem:** __Mouse beeps when you try to move it__
+> **Problem:** __Mouse beeps when you try to move it__
 
 Have you just connected an XInput((Xbox 360/One controller)) device? 
 
